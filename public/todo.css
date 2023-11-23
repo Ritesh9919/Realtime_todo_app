@@ -1,0 +1,33 @@
+.todo-container{
+    width:60%;
+    padding:20px;
+    margin: 3rem auto 0 auto;
+}
+
+#todo-list {
+    width: 50%;
+    height:10vh;
+    margin: 5rem auto 0 auto;
+    box-shadow: 0 0 2px 0 gray;
+}
+
+.todo-form{
+    width:50%;
+    margin: 3rem auto 0 auto;
+    padding: 10px;
+}
+
+#todo-input {
+    padding:8px 30px;
+    text-align: center;
+    font-size: 1.2vw;
+}
+
+#todo-btn{
+    padding:8px 20px;
+    background-color: green;
+    color:white;
+    border-radius: 3px;
+    font-weight: bold;
+    margin-left: 10px;
+}
